@@ -1,0 +1,9 @@
+{
+	"name": "rchoccelahua-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c4fdc437-54cf-488a-9de8-4ba2b20844f1",
+		"tenantId": "cb165905-4436-4f70-9cfb-bcfca4d9948b"
+	}
+}
